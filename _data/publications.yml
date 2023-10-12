@@ -6,23 +6,23 @@ main:
     conference: The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), Singapore, December 2023.
 
 
-     - title: Strategic Adversarial Attacks in AI-assisted Decision Making to Reduce Human Trust and Reliance
+  - title: Strategic Adversarial Attacks in AI-assisted Decision Making to Reduce Human Trust and Reliance
     authors: <strong>Zhuoyan Li*</strong>, Zhuoran Lu*, Chun-Wei Chiang  Ming Yin
     conference_short: IJCAI 2023
     conference: The 32nd International Joint Conference on Artificial Intelligence (IJCAI), Macao, China, August 2023.
 
-     - title: Are Two Heads Better Than One in AI-Assisted Decision Making? Comparing the Behavior and Performance of Groups and Individuals in Human-AI Collaborative Recidivism Risk Assessment
+  - title: Are Two Heads Better Than One in AI-Assisted Decision Making? Comparing the Behavior and Performance of Groups and Individuals in Human-AI Collaborative Recidivism Risk Assessment
     authors: Chun-Wei Chiang, Zhuoran Lu, <strong>Zhuoyan Li</strong>, Ming Yin
     conference_short: CHI 2023
     conference: The 41st ACM Conference on Human Factors in Computing Systems (CHI), Hamburg, Germany, April 2023.
 
-     - title: Modeling Human Trust and Reliance in AI-assisted Decision Making:A Markovian Approach
+  - title: Modeling Human Trust and Reliance in AI-assisted Decision Making:A Markovian Approach
     authors: <strong>Zhuoyan Li</strong>, Zhuoran Lu, Ming Yin
     conference_short: AAAI 2023
     conference: The 37th AAAI Conference on Aritificial Intelligence (AAAI), Washington, DC, February 2023.
     notes: Oral Presentation
 
-     - title: Towards Better Detection of Biased Language with Scarce, Noisy, and Biased Annotations
+  - title: Towards Better Detection of Biased Language with Scarce, Noisy, and Biased Annotations
     authors: <strong>Zhuoyan Li</strong>, Zhuoran Lu, Ming Yin
     conference_short: AIES 2022
     conference: The 5th AAAI/ACM Conference on AI, Ethics, and Soceity (AIES), Oxford, UK, August 2022.
