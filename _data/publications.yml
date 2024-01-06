@@ -1,6 +1,6 @@
 main:
 
-   - title: Are Two Heads Better Than One in AI-Assisted Decision Making? Comparing the Behavior and Performance of Groups and Individuals in Human-AI Collaborative Recidivism Risk Assessment
+   - title: Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate
     authors: Chun-Wei Chiang, Zhuoran Lu, <strong>Zhuoyan Li</strong>, Ming Yin
     # conference_short: CHI 2023
     conference: The 29st ACM Conference on Intelligent User Interfaces (IUI), Greenville, South Carlinoa, USA, March 2024.
