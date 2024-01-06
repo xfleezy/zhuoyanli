@@ -1,5 +1,10 @@
 main:
 
+   - title: Are Two Heads Better Than One in AI-Assisted Decision Making? Comparing the Behavior and Performance of Groups and Individuals in Human-AI Collaborative Recidivism Risk Assessment
+    authors: Chun-Wei Chiang, Zhuoran Lu, <strong>Zhuoyan Li</strong>, Ming Yin
+    # conference_short: CHI 2023
+    conference: The 29st ACM Conference on Intelligent User Interfaces (IUI), Greenville, South Carlinoa, USA, March 2024.
+
   - title: Decoding AI's Nudge:A Unified Framework to Predict Human Behavior in AI-assisted Decision Making
     authors: <strong>Zhuoyan Li</strong>, Zhuoran Lu, Ming Yin
     # conference_short: AAAI 2023
