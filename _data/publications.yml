@@ -1,8 +1,8 @@
 main:
 
-   - title: Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate.
+   - title: Enhancing AI-Assisted Group Decision Making through LLM\-Powered Devil's Advocate.
     authors: Chun-Wei Chiang, Zhuoran Lu, <strong>Zhuoyan Li</strong>, Ming Yin
-    # conference_short: CHI 2023
+    # conference_short: IUI 2024
     conference: The 29st ACM Conference on Intelligent User Interfaces (IUI), Greenville, South Carlinoa, USA, March 2024.
 
   - title: Decoding AI's Nudge:A Unified Framework to Predict Human Behavior in AI-assisted Decision Making
