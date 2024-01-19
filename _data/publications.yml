@@ -1,5 +1,10 @@
 main:
 
+  - title: The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing
+    authors: <strong>Zhuoyan Li</strong>, Chen Liang, Jing Peng, Ming Yin
+    # conference_short: CHI 2023
+    conference: The 42st ACM Conference on Human Factors in Computing Systems (CHI), Honolulu, Hawaii, May 2024.
+
   - title: Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate.
     authors: Chun-Wei Chiang, Zhuoran Lu, <strong>Zhuoyan Li</strong>, Ming Yin
     # conference_short: IUI 2024
