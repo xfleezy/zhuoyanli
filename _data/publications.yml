@@ -1,9 +1,21 @@
 main:
 
+  - title: How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?
+    authors: <strong>Zhuoyan Li</strong>, Chen Liang, Jing Peng, Ming Yin
+    # conference_short: AAAI 2023
+    conference: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), Miami, Florida, November 2024.
+
+  - title: Decoding AI's Nudge:A Unified Framework to Predict Human Behavior in AI-assisted Decision Making
+    authors: Zhuoran Lu, Syed Hasan Amin Mahmood, <strong>Zhuoyan Li</strong>, and Ming Yin
+    # conference_short: AAAI 2023
+    conference: The 12th AAAI Conference on Human Computing and Crowdsourcing (HCOMP), Pittsburgh, PA, October 2024.
+
   - title: The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing
     authors: <strong>Zhuoyan Li</strong>, Chen Liang, Jing Peng, Ming Yin
     # conference_short: CHI 2023
     conference: The 42st ACM Conference on Human Factors in Computing Systems (CHI), Honolulu, Hawaii, May 2024.
+    notes: Best Paper Honorable Mention
+
 
   - title: Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate.
     authors: Chun-Wei Chiang, Zhuoran Lu, <strong>Zhuoyan Li</strong>, Ming Yin
