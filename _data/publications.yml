@@ -1,4 +1,9 @@
 main:
+  - title: Utilizing Human Behavior Modeling to Manipulate Explanations in AI-Assisted Decision Making:The Good, the Bad, and the Ugly
+    authors: <strong>Zhuoyan Li</strong>, Ming Yin
+    # conference_short: AAAI 2023
+    conference: The 38th Annual Conference on Neural Information Processing Systems （Neurips 2024), Vancouver, Canada, December 2024.
+
 
   - title: How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?
     authors: <strong>Zhuoyan Li</strong>, Chen Liang, Jing Peng, Ming Yin
