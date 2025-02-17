@@ -86,5 +86,5 @@ main:
   - title: Towards Better Detection of Biased Language with Scarce, Noisy, and Biased Annotations
     authors: Zhuoyan Li, Zhuoran Lu, Ming Yin
     conference_short: AIES 2022
-    image: ./assets/img/aies.png
+    image: ./assets/img/teaser_example.png
     conference: The 5th AAAI/ACM Conference on AI, Ethics, and Soceity (AIES), Oxford, UK, August 2022.
