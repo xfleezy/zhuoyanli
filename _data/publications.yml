@@ -1,94 +1,15 @@
 main:
-  
-  
-  - title: "Exploring the Cost-Effectiveness of Perspective Taking in Crowdsourcing Subjective Assessment: A Case Study of Toxicity Detection"
-    authors: Xiaoni Duan, Zhuoyan Li, Chien-Ju Ho, and Ming Yin
-    conference_short: NAACL 2025
-    image: ./assets/img/naacl.png
-    conference: The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Albuquerque, NM, April 29 - May 4, 2025.
 
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/teaser_example_2.png
+    notes: Early Accept
 
-  - title: "From Text to Trust: Empowering AI-assisted Decision Making with Adaptive LLM-powered Analysis"
-    authors: Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ziang Xiao, Ming Yin
-    conference_short: CHI 2025
-    image: ./assets/img/chi2025.jpg
-    conference: The 43rd ACM Conference on Human Factors in Computing Systems (CHI), Yokohama, Japan, April 26 - May 1, 2025. 
-
-
-  - title: Utilizing Human Behavior Modeling to Manipulate Explanations in AI-Assisted Decision Making:The Good, the Bad, and the Ugly
-    authors: Zhuoyan Li, Ming Yin
-    conference_short: NeurIPS 2024
-    image: ./assets/img/neurips.png
-    conference: The 38th Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada, December 2024.
-
-
-  - title: How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?
-    authors: Zhuoyan Li, Chen Liang, Jing Peng, Ming Yin
-    conference_short: EMNLP 2024
-    image: ./assets/img/emnlp24.png
-    conference: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP), Miami, Florida, November 2024.
-
-  - title: Mix and Match:Characterizing Heterogeneous Human Behavior in AI-assisted Decision Making
-    authors: Zhuoran Lu, Syed Hasan Amin Mahmood, Zhuoyan Li, and Ming Yin
-    conference_short: HCOMP 24
-    image: ./assets/img/hcomp24.png
-    conference: The 12th AAAI Conference on Human Computing and Crowdsourcing (HCOMP), Pittsburgh, PA, October 2024.
-
-  - title: The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing
-    authors: Zhuoyan Li, Chen Liang, Jing Peng, Ming Yin
-    conference_short: CHI 2024
-    image: ./assets/img/chi24.png
-    conference: The 42st ACM Conference on Human Factors in Computing Systems (CHI), Honolulu, Hawaii, May 2024.
-    notes: Best Paper Honorable Mention
-
-
-  - title: Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate.
-    authors: Chun-Wei Chiang, Zhuoran Lu, Zhuoyan Li, Ming Yin
-    conference_short: IUI 2024
-    image: ./assets/img/iui24.png
-    conference: The 29st ACM Conference on Intelligent User Interfaces (IUI), Greenville, South Carlinoa, USA, March 2024.
-
-  - title: "Decoding AI's Nudge: A Unified Framework to Predict Human Behavior in AI-assisted Decision Making"
-    authors: Zhuoyan Li, Zhuoran Lu, Ming Yin
-    conference_short: AAAI 2024
-    image: ./assets/img/aaai24iui.png
-    conference: The 38th AAAI Conference on Aritificial Intelligence (AAAI), Vancouver, Canada, February 2024.
-
-
-  - title: Synthetic Data Generation with Large Language Models for Text Classification:Potential and Limitations
-    authors: Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ming Yin
-    conference_short: EMNLP 2023
-    image: ./assets/img/emnlp23.png
-    conference: The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP), Singapore, December 2023.
-
-
-  - title: Strategic Adversarial Attacks in AI-assisted Decision Making to Reduce Human Trust and Reliance
-    authors: Zhuoyan Li*, Zhuoran Lu*, Chun-Wei Chiang, Ming Yin
-    conference_short: IJCAI 2023
-    image: ./assets/img/ijcai23.png
-
-    conference: The 32nd International Joint Conference on Artificial Intelligence (IJCAI), Macao, China, August 2023.
-
-  - title: Are Two Heads Better Than One in AI-Assisted Decision Making? Comparing the Behavior and Performance of Groups and Individuals in Human-AI Collaborative Recidivism Risk Assessment
-    authors: Chun-Wei Chiang, Zhuoran Lu, Zhuoyan Li, Ming Yin
-    conference_short: CHI 2023
-    image: ./assets/img/chi23.png
-
-    conference: The 41st ACM Conference on Human Factors in Computing Systems (CHI), Hamburg, Germany, April 2023.
-
-  - title: Modeling Human Trust and Reliance in AI-assisted Decision Making:A Markovian Approach
-    authors: Zhuoyan Li, Zhuoran Lu, Ming Yin
-    conference_short: AAAI 2023
-    image: ./assets/img/aaai2023.png
-    conference: The 37th AAAI Conference on Aritificial Intelligence (AAAI), Washington, DC, February 2023.
-    notes: Oral Presentation
-
-  - title: Towards Better Detection of Biased Language with Scarce, Noisy, and Biased Annotations
-    authors: Zhuoyan Li, Zhuoran Lu, Ming Yin
-    conference_short: AIES 2022
-    image: ./assets/img/teaser_example.png
-    conference: The 5th AAAI/ACM Conference on AI, Ethics, and Soceity (AIES), Oxford, UK, August 2022.
-  
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
