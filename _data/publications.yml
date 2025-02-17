@@ -1,13 +1,13 @@
 main:
   
   
-  - title: Exploring the Cost-Effectiveness of Perspective Taking in Crowdsourcing Subjective Assessment: A Case Study of Toxicity Detection
+  - title: "Exploring the Cost-Effectiveness of Perspective Taking in Crowdsourcing Subjective Assessment: A Case Study of Toxicity Detection"
     authors: Xiaoni Duan, Zhuoyan Li, Chien-Ju Ho, and Ming Yin
     # conference_short: AAAI 2023
     conference: The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL), Albuquerque, NM, April 29 - May 4, 2025.
 
 
-  - title: From Text to Trust:Empowering AI-assisted Decision Making with Adaptive LLM-powered Analysis
+  - title: "From Text to Trust: Empowering AI-assisted Decision Making with Adaptive LLM-powered Analysis"
     authors: Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ziang Xiao, Ming Yin
     # conference_short: AAAI 2023
     conference: The 43rd ACM Conference on Human Factors in Computing Systems (CHI), Yokohama, Japan, April 26 - May 1, 2025. 
