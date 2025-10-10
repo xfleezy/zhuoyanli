@@ -1,17 +1,14 @@
 ## Services
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>ACM MM 2024</autocolor></li>
-  <li><autocolor>ACM CSCW 2024</autocolor></li>
-  <li><autocolor>ACM CHI 2023, 2024, 2025</autocolor></li>
-  <li><autocolor>ACM IUI 2023, 2024</autocolor></li>
-  <li><autocolor>ACM DIS 2023,2024</autocolor></li>
-  <li><autocolor>ICLR 2025 </autocolor></li>
+  <li><autocolor>2025: DIS, CHI, CSCW, ICLR, NeurIPS, EMNLP</autocolor></li>
+  <li><autocolor>2024: DIS, CHI, MM, CSCW</autocolor></li>
+  <li><autocolor>2023: DIS, IUI, CHI </autocolor></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 <ul style="margin:0 0 5px;">
   <li><autocolor>ACM TIIS</autocolor></li>
   <li><autocolor>TKDE</autocolor></li>
