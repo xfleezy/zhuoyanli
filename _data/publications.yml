@@ -1,6 +1,6 @@
 main:
 
-   - title: "Human-LLM Collaborative Feature Engineering for Tabular Data"
+  - title: "Human-LLM Collaborative Feature Engineering for Tabular Data"
     authors: Zhuoyan Li, Aditya Bansal, Jinzhao Li, Shishuang He, Zhuoran Lu, Mutian Zhang, Qin Liu, Yiwei Yang, Swati Jain, Ming Yin, Yunyao Li
     # conference_short: NAACL 2025
     conference: The Fourteenth International Conference on Learning Representations (ICLR 26), Rio de Janeiro, Brazil, April 23-27, 2026.
