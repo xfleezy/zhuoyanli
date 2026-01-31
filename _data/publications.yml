@@ -2,7 +2,7 @@ main:
 
   - title: "Human-LLM Collaborative Feature Engineering for Tabular Data"
     authors: Zhuoyan Li, Aditya Bansal, Jinzhao Li, Shishuang He, Zhuoran Lu, Mutian Zhang, Qin Liu, Yiwei Yang, Swati Jain, Ming Yin, Yunyao Li
-    # conference_short: NAACL 2025
+    conference_short: ICLR
     conference: The Fourteenth International Conference on Learning Representations (ICLR 26), Rio de Janeiro, Brazil, April 23-27, 2026.
 
 
@@ -13,7 +13,7 @@ main:
 
   - title: "Exploring the Cost-Effectiveness of Perspective Taking in Crowdsourcing Subjective Assessment: A Case Study of Toxicity Detection"
     authors: Xiaoni Duan, Zhuoyan Li, Chien-Ju Ho, and Ming Yin
-    # conference_short: NAACL 2025
+    conference_short: NAACL
     conference: The Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 25), Albuquerque, NM, April 29 - May 4, 2025.
     # image: ./assets/img/naacl.png
 
@@ -21,7 +21,7 @@ main:
 
   - title: "From Text to Trust: Empowering AI-assisted Decision Making with Adaptive LLM-powered Analysis"
     authors: Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ziang Xiao, Ming Yin
-    # conference_short: CHI 2025
+    conference_short: CHI
     conference: The 43rd ACM Conference on Human Factors in Computing Systems (CHI 25), Yokohama, Japan, April 26 - May 1, 2025. 
     image: ./assets/img/chi2025.jpg
 
@@ -29,7 +29,7 @@ main:
 
   - title: "Utilizing Human Behavior Modeling to Manipulate Explanations in AI-Assisted Decision Making: The Good, the Bad, and the Ugly"
     authors: Zhuoyan Li, Ming Yin
-    # conference_short: NeurIPS 2024
+    conference_short: NeurIPS
     conference: The 38th Annual Conference on Neural Information Processing Systems (NeurIPS 24), Vancouver, Canada, December 2024.
     # image: ./assets/img/neurips.png
 
@@ -37,21 +37,21 @@ main:
 
   - title: How Does the Disclosure of AI Assistance Affect the Perceptions of Writing?
     authors: Zhuoyan Li, Chen Liang, Jing Peng, Ming Yin
-    # conference_short: EMNLP 2024
+    conference_short: EMNLP
     conference: The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 24), Miami, Florida, November 2024.
     # image: ./assets/img/emnlp24.png
 
 
   - title: "Mix and Match: Characterizing Heterogeneous Human Behavior in AI-assisted Decision Making"
     authors: Zhuoran Lu, Syed Hasan Amin Mahmood, Zhuoyan Li, and Ming Yin
-    # conference_short: HCOMP 24
+    conference_short: HCOMP
     conference: The 12th AAAI Conference on Human Computing and Crowdsourcing (HCOMP 24), Pittsburgh, PA, October 2024.
     # image: ./assets/img/hcomp24.png
 
 
   - title: The Value, Benefits, and Concerns of Generative AI-Powered Assistance in Writing
     authors: Zhuoyan Li, Chen Liang, Jing Peng, Ming Yin
-    # conference_short: CHI 2024
+    conference_short: CHI
     conference: The 42st ACM Conference on Human Factors in Computing Systems (CHI 24), Honolulu, Hawaii, May 2024.
     notes: Best Paper Honorable Mention
     # image: ./assets/img/chi24.png
@@ -59,14 +59,14 @@ main:
 
   - title: Enhancing AI-Assisted Group Decision Making through LLM-Powered Devil's Advocate.
     authors: Chun-Wei Chiang, Zhuoran Lu, Zhuoyan Li, Ming Yin
-    # conference_short: IUI 2024
+    conference_short: IUI
     conference: The 29st ACM Conference on Intelligent User Interfaces (IUI 24), Greenville, South Carlinoa, USA, March 2024.
     # image: ./assets/img/iui24.png
 
 
   - title: "Decoding AI's Nudge: A Unified Framework to Predict Human Behavior in AI-assisted Decision Making"
     authors: Zhuoyan Li, Zhuoran Lu, Ming Yin
-    # conference_short: AAAI 2024
+    conference_short: AAAI
     conference: The 38th AAAI Conference on Aritificial Intelligence (AAAI 24), Vancouver, Canada, February 2024.
     # image: ./assets/img/aaai24.png
 
@@ -74,7 +74,7 @@ main:
 
   - title: "Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations"
     authors: Zhuoyan Li, Hangxiao Zhu, Zhuoran Lu, Ming Yin
-    # conference_short: EMNLP 2023
+    conference_short: EMNLP
     conference: The 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 23), Singapore, December 2023.
     # image: ./assets/img/emnlp23.png
 
@@ -82,21 +82,21 @@ main:
 
   - title: Strategic Adversarial Attacks in AI-assisted Decision Making to Reduce Human Trust and Reliance
     authors: Zhuoyan Li*, Zhuoran Lu*, Chun-Wei Chiang, Ming Yin
-    # conference_short: IJCAI 2023
+    conference_short: IJCAI
     conference: The 32nd International Joint Conference on Artificial Intelligence (IJCAI 23), Macao, China, August 2023.
     # image: ./assets/img/ijcai23.png
 
 
   - title: Are Two Heads Better Than One in AI-Assisted Decision Making? Comparing the Behavior and Performance of Groups and Individuals in Human-AI Collaborative Recidivism Risk Assessment
     authors: Chun-Wei Chiang, Zhuoran Lu, Zhuoyan Li, Ming Yin
-    # conference_short: CHI 2023
+    conference_short: CHI
     conference: The 41st ACM Conference on Human Factors in Computing Systems (CHI 23), Hamburg, Germany, April 2023.
     # image: ./assets/img/chi23.png
 
 
   - title: "Modeling Human Trust and Reliance in AI-assisted Decision Making: A Markovian Approach"
     authors: Zhuoyan Li, Zhuoran Lu, Ming Yin
-    # conference_short: AAAI 2023
+    conference_short: AAAI
     conference: The 37th AAAI Conference on Aritificial Intelligence (AAAI 23), Washington, DC, February 2023.
     notes: Oral Presentation
     # image: ./assets/img/aaai2023.png
@@ -104,6 +104,6 @@ main:
 
   - title: Towards Better Detection of Biased Language with Scarce, Noisy, and Biased Annotations
     authors: Zhuoyan Li, Zhuoran Lu, Ming Yin
-    # conference_short: AIES 2022
+    conference_short: AIES
     conference: The 5th AAAI/ACM Conference on AI, Ethics, and Soceity (AIES 22), Oxford, UK, August 2022.
     # image: ./assets/img/teaser_example.png

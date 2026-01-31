@@ -595,3 +595,21 @@ footer {
   display:none;
   font-family: monospace;
 }
+
+/* Publication badge styling */
+.badge {
+  background-color: #043361;
+  color: white;
+  padding: 4px 12px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .badge {
+    background-color: #3eb7f0;
+    color: #1a1b26;
+  }
+}

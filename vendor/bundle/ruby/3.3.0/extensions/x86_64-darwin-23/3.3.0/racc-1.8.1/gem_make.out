@@ -1,0 +1,18 @@
+current directory: /Users/xfleezy/Desktop/personal file/homepage/zhuoyanli/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+/usr/local/opt/ruby@3.3/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/xfleezy/Desktop/personal file/homepage/zhuoyanli/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260131-47317-koy316 sitelibdir\=./.gem.20260131-47317-koy316 clean
+
+current directory: /Users/xfleezy/Desktop/personal file/homepage/zhuoyanli/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260131-47317-koy316 sitelibdir\=./.gem.20260131-47317-koy316
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/xfleezy/Desktop/personal file/homepage/zhuoyanli/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260131-47317-koy316 sitelibdir\=./.gem.20260131-47317-koy316 install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20260131-47317-koy316/racc
+
+current directory: /Users/xfleezy/Desktop/personal file/homepage/zhuoyanli/vendor/bundle/ruby/3.3.0/gems/racc-1.8.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20260131-47317-koy316 sitelibdir\=./.gem.20260131-47317-koy316 clean
