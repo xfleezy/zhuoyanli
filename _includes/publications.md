@@ -12,7 +12,7 @@
       <span class="badge" style="margin-bottom: 8px; display: inline-block;">{{ link.conference_short }}</span>
       {% endif %}
       <div class="title" style="margin-bottom: 8px; line-height: 1.4;"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author" style="margin-bottom: 6px;">{{ link.authors }}</div>
+      <div class="author" style="margin-bottom: 6px;">{{ link.authors | replace: "Zhuoyan Li", "<strong>Zhuoyan Li</strong>" }}</div>
       <div class="periodical" style="margin-bottom: 8px;"><em>{{ link.conference }}</em></div>
       {% if link.notes %} 
       <div style="margin-bottom: 8px;"><strong><i style="color:#e74d3c">{{ link.notes }}</i></strong></div>
