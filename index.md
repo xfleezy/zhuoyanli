@@ -11,7 +11,3 @@ My research interests include **human-AI interaction**, **human-centered AI**, a
 
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/experience.md %}
-
-{% include_relative _includes/services.md %}
