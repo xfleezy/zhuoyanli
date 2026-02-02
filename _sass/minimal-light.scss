@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap");
+
 .pub-row {
   display: flex; 
   align-items: center;
@@ -6,6 +8,7 @@
 body {
   background-color: #FFFCF8;
   color: #1a1a1a;
+  font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .social-icons a{
@@ -217,12 +220,14 @@ h3, h4, h5, h6 {
   font-weight: 600;
   color:#1a1a1a;
   margin:0 0 20px;
+  font-family: "Space Grotesk", "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 h1 {
   font-weight: 500;
   color:#1a1a1a;
   margin:0 0 20px;
+  font-family: "Space Grotesk", "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 h2 {
@@ -230,6 +235,7 @@ h2 {
   font-weight: 500;
   margin:2px 0px 15px;
   font-size: 157%;
+  font-family: "Space Grotesk", "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -546,7 +552,7 @@ footer {
   }
 
   header ul, header p.view {
-    
+    display: none;
   }
 
   pre, code {
@@ -633,6 +639,18 @@ footer {
 
 .title a:hover {
   color: #0066cc;
+}
+
+/* Publications font consistency */
+.publications,
+.publications .title,
+.publications .author,
+.publications .periodical,
+.publications .links,
+.publications .badge,
+.publications ol,
+.publications li {
+  font-family: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
